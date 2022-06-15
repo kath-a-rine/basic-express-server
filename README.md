@@ -10,8 +10,8 @@ Create and deploy a web server using CI and CD and get used to the general proce
 
 ### Links and Resources
 
-- [ci/cd](https://github.com/kath-a-rine/server-deployment-practice/actions) (I missed this file earlier so it is missing the initial tests.)
-- [back-end server url](https://katharine-server-deploy-prod.herokuapp.com/)
+- [ci/cd]
+- [back-end server url]
 
 ### Setup
 
@@ -27,10 +27,9 @@ Create and deploy a web server using CI and CD and get used to the general proce
 
 #### Features / Routes
 
-- Feature One: create and deploy a web server using CI and CD and get used to the general process of building and deploying servers, and prepping work for grading
+- Build a basic Express server using best practices, including server modularization, use of middleware, and tests.
 
-- GET : `/hello` - specific route to hit
-- GET : `/`
+- GET : `/person`
 
 #### Tests
 

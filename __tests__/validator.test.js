@@ -14,7 +14,7 @@ describe('Validator Test', () => {
     test('200 if name is in query', async () => {
       let response = await mockRequest.get('/person?name=Katharine'); // what should the route be for 200 test?
       expect(response.status).toEqual(200);
-      expect(response.text).toEqual('Howdy Katharine');
+      expect(response.body.name).toEqual('Katharine');
     });
   });
 });
