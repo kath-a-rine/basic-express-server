@@ -11,7 +11,7 @@ Build a basic Express server using best practices, including server modularizati
 ### Links and Resources
 
 - [ci/cd - GitHub Actions](https://github.com/kath-a-rine/basic-express-server/actions)
-- [back-end server url](TBD)
+- [back-end server url - deployed, but erroring out](https://basic-express-server-401d47.herokuapp.com/)
 
 ### Setup
 
