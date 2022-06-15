@@ -6,12 +6,12 @@
 
 ### Problem Domain
 
-Create and deploy a web server using CI and CD and get used to the general process of building and deploying servers.
+Build a basic Express server using best practices, including server modularization, use of middleware, and tests.
 
 ### Links and Resources
 
-- [ci/cd]
-- [back-end server url]
+- [ci/cd - GitHub Actions](https://github.com/kath-a-rine/basic-express-server/actions)
+- [back-end server url](TBD)
 
 ### Setup
 

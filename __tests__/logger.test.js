@@ -23,5 +23,5 @@ describe('Test logger middleware', () => {
   test('Properly calls next()', () => {
     logger(req, res, next);
     expect(next).toHaveBeenCalledWith();
-  })
+  });
 });
